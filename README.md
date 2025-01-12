@@ -1,6 +1,6 @@
 # Airbnb Listing Price Prediction in London
 
-This repository contains the code and resources for my project, where I predict the listing prices of Airbnb properties in London by leveraging both **textual** and **tabular data**. The goal of this project was to develop a robust machine learning pipeline capable of accurately estimating prices using advanced models and a stacked ensemble approach.
+This repository contains the code for my project, where I predict the listing prices of Airbnb properties in London by leveraging both **textual** and **tabular data**. The goal of this project was to develop a robust machine learning pipeline capable of accurately estimating prices using advanced models and a stacked ensemble approach. The data was sourced from [a kaggle competition](https://www.kaggle.com/competitions/adams-sose23).
 
 ## Project Overview
 
